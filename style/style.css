@@ -190,7 +190,7 @@ body{
         width: auto;
     }
     
-  @media(min-width: 820px) {
+  @media(max-width: 800px) {
         .cabecalho{
             padding: 10%;
         }
