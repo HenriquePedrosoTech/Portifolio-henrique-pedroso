@@ -182,8 +182,7 @@ body{
     }
     
     .cabecalho__menu__link {
-        display: flex;
-        justify-content: center;
+        weigth: 400;
     }
 
     .apresentacao {
