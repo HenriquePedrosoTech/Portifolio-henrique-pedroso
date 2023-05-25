@@ -182,7 +182,8 @@ body{
     }
     
     .cabecalho__menu__link {
-        weigth: 400;
+        weigth: auto;
+        height: auto;
     }
 
     .apresentacao {
