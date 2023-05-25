@@ -182,7 +182,7 @@ body{
     }
     
     .cabecalho__menu__link {
-        padding: 10%;
+        padding: auto;
     }
 
     .apresentacao {
