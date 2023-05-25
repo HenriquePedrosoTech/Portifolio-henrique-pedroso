@@ -183,29 +183,16 @@ body{
 
     .apresentacao {
         flex-direction: column-reverse;
-        padding: 10% ;
+        padding: 10%;
+    }
+    
+    .apresentacao_cv {
+        flex-direction: column-reverse;
+        padding: 10%;
     }
 
     .apresentacao__conteudo {
         width: auto;
     }
     
-  @media(max-width: 800px) {
-        .cabecalho{
-            padding: 3%;
-            
-        }
-    
-        .cabecalho__menu {
-            justify-content: center;
-        }
-    
-        .apresentacao_cv {
-            flex-direction: column-reverse;
-            padding: 10% ;
-        }
-    
-        .apresentacao__conteudo {
-            width: auto;
-        }  
-}    
+  }    
