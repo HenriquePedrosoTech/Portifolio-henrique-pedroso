@@ -180,4 +180,22 @@ body{
     .apresentacao__conteudo {
         width: auto;
     }
+    
+  @media(min-width: 1440px) {
+        .cabecalho{
+            padding: 10%;
+        }
+    
+        .cabecalho__menu {
+            justify-content: center;
+        }
+    
+        .apresentacao_cv {
+            flex-direction: column-reverse;
+            padding: 10% ;
+        }
+    
+        .apresentacao__conteudo {
+            width: auto;
+        }  
 }    
