@@ -172,7 +172,7 @@ body{
 }
 
 
-@media (max-width: 1200px) { /* Para adaptacao de tela com no max 1200px */
+@media (max-width: 1450px) { /* Para adaptacao de tela com no max 1200px */
     .cabecalho{
         padding: 10%;
     }
