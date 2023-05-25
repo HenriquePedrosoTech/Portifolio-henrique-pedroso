@@ -50,6 +50,15 @@ body{
     border-radius: 3%;
 }
 
+/* Imagem About */
+.img_about {
+    display: flex;
+    margin-left: 50 px;
+    height: 30%;
+    width: 35%;
+    border-radius: 3%;
+}
+
 .img_a{ /*imagens curriculo*/
     display: flex;
     margin-left: 20px;
