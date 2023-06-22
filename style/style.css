@@ -199,4 +199,27 @@ body{
         width: auto;
     }
     
-  }    
+  }
+
+/* configuracao celular */
+    @media(max-width: 392px) {
+        .cabecalho{
+            padding: auto;
+            margin: 0%;
+        }
+    
+        .cabecalho__menu {
+            justify-content: center;
+            gap: 15%;
+        }
+        
+            
+        .apresentacao_cv {
+            flex-direction: column-reverse;
+            padding: 10% ;
+        }
+    
+        .apresentacao__conteudo {
+            width: auto;
+        }  
+}    
